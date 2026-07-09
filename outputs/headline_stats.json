@@ -1,0 +1,12 @@
+{
+  "total_delivered_orders": 96478,
+  "unique_customers": 93358,
+  "repeat_purchase_rate": 0.03,
+  "avg_order_value": 159.85,
+  "total_revenue": 15422461.77,
+  "month1_retention_avg": 0.0545,
+  "date_range": [
+    "2016-09-15",
+    "2018-08-29"
+  ]
+}
